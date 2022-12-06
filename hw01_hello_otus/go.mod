@@ -1,4 +1,4 @@
-module github.com/stepvlk/hw01_hello_otus
+module github.com/stepvlk/hw-test/hw01_hello_otus
 
 go 1.16
 
